@@ -1,0 +1,31 @@
+D:\_WORK\30331pm\LAB3_ATL\VBClient_lb3\VBClient_lb3\bin\Debug\VBClient_lb3.exe
+D:\_WORK\30331pm\LAB3_ATL\VBClient_lb3\VBClient_lb3\bin\Debug\VBClient_lb3.pdb
+D:\_WORK\30331pm\LAB3_ATL\VBClient_lb3\VBClient_lb3\bin\Debug\VBClient_lb3.xml
+D:\_WORK\30331pm\LAB3_ATL\VBClient_lb3\VBClient_lb3\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\_WORK\30331pm\LAB3_ATL\VBClient_lb3\VBClient_lb3\obj\x86\Debug\VBClient_lb3.Form1.resources
+D:\_WORK\30331pm\LAB3_ATL\VBClient_lb3\VBClient_lb3\obj\x86\Debug\VBClient_lb3.Resources.resources
+D:\_WORK\30331pm\LAB3_ATL\VBClient_lb3\VBClient_lb3\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\_WORK\30331pm\LAB3_ATL\VBClient_lb3\VBClient_lb3\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\_WORK\30331pm\LAB3_ATL\VBClient_lb3\VBClient_lb3\obj\x86\Debug\VBClient_lb3.exe
+D:\_WORK\30331pm\LAB3_ATL\VBClient_lb3\VBClient_lb3\obj\x86\Debug\VBClient_lb3.xml
+D:\_WORK\30331pm\LAB3_ATL\VBClient_lb3\VBClient_lb3\obj\x86\Debug\VBClient_lb3.pdb
+D:\_WORK\30331pm\LAB3_ATL\VBClient_lb3\VBClient_lb3\obj\x86\Debug\Interop.Lb3_AutoSvrLib.dll
+D:\_WORK\30331pm\LAB3_ATL\VBClient_lb3\VBClient_lb3\obj\x86\Debug\VBClient_lb3.vbproj.ResolveComReference.cache
+d:\iit-bsuir\SESSION_4\ТКП\ТКП_labs - копия\lab_3\LAB3_ATL\VBClient_lb3\VBClient_lb3\obj\x86\Debug\VBClient_lb3.vbproj.ResolveComReference.cache
+d:\iit-bsuir\SESSION_4\ТКП\ТКП_labs - копия\lab_3\LAB3_ATL\VBClient_lb3\VBClient_lb3\obj\x86\Debug\VBClient_lb3.exe
+d:\iit-bsuir\SESSION_4\ТКП\ТКП_labs - копия\lab_3\LAB3_ATL\VBClient_lb3\VBClient_lb3\obj\x86\Debug\VBClient_lb3.xml
+d:\iit-bsuir\SESSION_4\ТКП\ТКП_labs - копия\lab_3\LAB3_ATL\VBClient_lb3\VBClient_lb3\obj\x86\Debug\VBClient_lb3.pdb
+d:\iit-bsuir\SESSION_4\ТКП\ТКП_labs - копия\lab_3\LAB3_ATL\VBClient_lb3\VBClient_lb3\obj\x86\Debug\VBClient_lb3.Form1.resources
+d:\iit-bsuir\SESSION_4\ТКП\ТКП_labs - копия\lab_3\LAB3_ATL\VBClient_lb3\VBClient_lb3\obj\x86\Debug\VBClient_lb3.Resources.resources
+d:\iit-bsuir\SESSION_4\ТКП\ТКП_labs - копия\lab_3\LAB3_ATL\VBClient_lb3\VBClient_lb3\obj\x86\Debug\VBClient_lb3.vbproj.GenerateResource.Cache
+d:\iit-bsuir\SESSION_4\ТКП\ТКП_labs_копия\lab_3\LAB3_ATL\VBClient_lb3\VBClient_lb3\obj\x86\Debug\VBClient_lb3.vbproj.ResolveComReference.cache
+d:\iit-bsuir\SESSION_4\ТКП\ТКП_labs_копия\lab_3\LAB3_ATL\VBClient_lb3\VBClient_lb3\obj\x86\Debug\VBClient_lb3.exe
+d:\iit-bsuir\SESSION_4\ТКП\ТКП_labs_копия\lab_3\LAB3_ATL\VBClient_lb3\VBClient_lb3\obj\x86\Debug\VBClient_lb3.xml
+d:\iit-bsuir\SESSION_4\ТКП\ТКП_labs_копия\lab_3\LAB3_ATL\VBClient_lb3\VBClient_lb3\obj\x86\Debug\VBClient_lb3.pdb
+d:\iit-bsuir\SESSION_4\ТКП\ТКП_labs_копия\lab_3\LAB3_ATL\VBClient_lb3\VBClient_lb3\obj\x86\Debug\VBClient_lb3.Form1.resources
+d:\iit-bsuir\SESSION_4\ТКП\ТКП_labs_копия\lab_3\LAB3_ATL\VBClient_lb3\VBClient_lb3\obj\x86\Debug\VBClient_lb3.Resources.resources
+d:\iit-bsuir\SESSION_4\ТКП\ТКП_labs_копия\lab_3\LAB3_ATL\VBClient_lb3\VBClient_lb3\obj\x86\Debug\VBClient_lb3.vbproj.GenerateResource.Cache
+d:\iit-bsuir\SESSION_4\ТКП\ТКП_labs_копия\lab_3\LAB3_ATL\VBClient_lb3\VBClient_lb3\bin\Debug\VBClient_lb3.exe
+d:\iit-bsuir\SESSION_4\ТКП\ТКП_labs_копия\lab_3\LAB3_ATL\VBClient_lb3\VBClient_lb3\bin\Debug\VBClient_lb3.pdb
+d:\iit-bsuir\SESSION_4\ТКП\ТКП_labs_копия\lab_3\LAB3_ATL\VBClient_lb3\VBClient_lb3\bin\Debug\VBClient_lb3.xml
+d:\iit-bsuir\SESSION_4\ТКП\ТКП_labs_копия\lab_3\LAB3_ATL\VBClient_lb3\VBClient_lb3\obj\x86\Debug\Interop.Lb3_AutoSvrLib.dll
