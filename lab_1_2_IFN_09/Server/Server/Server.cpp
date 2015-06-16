@@ -14,13 +14,13 @@ long    g_lLocks = 0;
 static HMODULE g_hModule = NULL;   // DLL module handle
 
 // Friendly name of component
-TCHAR g_szFriendlyName[] = "FN_09_Lab1 Component";
+TCHAR g_szFriendlyName[] = TEXT("FN_09_Lab1 Component");
 
 // Version-independent ProgID
-TCHAR g_szVerIndProgID[] = "FN_09.Component";
+TCHAR g_szVerIndProgID[] = TEXT("FN_09.Component");
 
 // ProgID
-TCHAR g_szProgID[] = "FN_09.Component.1";
+TCHAR g_szProgID[] = TEXT("FN_09.Component.1");
 
 
 

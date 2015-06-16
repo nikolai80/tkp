@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2013
-VisualStudioVersion = 12.0.31101.0
-MinimumVisualStudioVersion = 10.0.40219.1
+# Visual Studio 2010
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Server", "Server\Server.vcxproj", "{91B26CFE-3B5B-4462-B3A6-B43CC9F864D7}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Client", "Client\Client.vcxproj", "{846F09FF-D30A-46A2-A538-DA8724157823}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +15,10 @@ Global
 		{91B26CFE-3B5B-4462-B3A6-B43CC9F864D7}.Debug|Win32.Build.0 = Debug|Win32
 		{91B26CFE-3B5B-4462-B3A6-B43CC9F864D7}.Release|Win32.ActiveCfg = Release|Win32
 		{91B26CFE-3B5B-4462-B3A6-B43CC9F864D7}.Release|Win32.Build.0 = Release|Win32
+		{846F09FF-D30A-46A2-A538-DA8724157823}.Debug|Win32.ActiveCfg = Debug|Win32
+		{846F09FF-D30A-46A2-A538-DA8724157823}.Debug|Win32.Build.0 = Debug|Win32
+		{846F09FF-D30A-46A2-A538-DA8724157823}.Release|Win32.ActiveCfg = Release|Win32
+		{846F09FF-D30A-46A2-A538-DA8724157823}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
