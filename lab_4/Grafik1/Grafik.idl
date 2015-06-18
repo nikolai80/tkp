@@ -1,0 +1,75 @@
+// Grafik.idl : IDL source for Grafik
+//
+
+// This file will be processed by the MIDL tool to
+// produce the type library (Grafik.tlb) and marshalling code.
+
+#include "olectl.h"
+import "oaidl.idl";
+import "ocidl.idl";
+
+[
+	object,
+	uuid(B77909F0-4E18-4A8F-B162-1EAF1D093257),
+	dual,
+	nonextensible,
+	pointer_default(unique)
+]
+interface IGrafCtl : IDispatch{
+	[propput, bindable, requestedit, id(DISPID_BACKCOLOR)]
+	HRESULT BackColor([in]OLE_COLOR clr);
+	[propget, bindable, requestedit, id(DISPID_BACKCOLOR)]
+	HRESULT BackColor([out,retval]OLE_COLOR* pclr);
+	[propput, bindable, requestedit, id(DISPID_BORDERCOLOR)]
+	HRESULT BorderColor([in]OLE_COLOR clr);
+	[propget, bindable, requestedit, id(DISPID_BORDERCOLOR)]
+	HRESULT BorderColor([out, retval]OLE_COLOR* pclr);
+	[propput, bindable, requestedit, id(DISPID_FILLCOLOR)]
+	HRESULT FillColor([in]OLE_COLOR clr);
+	[propget, bindable, requestedit, id(DISPID_FILLCOLOR)]
+	HRESULT FillColor([out, retval]OLE_COLOR* pclr);
+	[propputref, bindable, requestedit, id(DISPID_FONT)]
+	HRESULT Font([in]IFontDisp* pFont);
+	[propput, bindable, requestedit, id(DISPID_FONT)]
+	HRESULT Font([in]IFontDisp* pFont);
+	[propget, bindable, requestedit, id(DISPID_FONT)]
+	HRESULT Font([out, retval]IFontDisp** ppFont);
+	[propget, id(1)] HRESULT Click([out, retval] SHORT* pVal);
+	[propput, id(1)] HRESULT Click([in] SHORT newVal);
+	[propget, id(2)] HRESULT xMin([out, retval] DOUBLE* pVal);
+	[propput, id(2)] HRESULT xMin([in] DOUBLE newVal);
+	[propget, id(3)] HRESULT xMax([out, retval] DOUBLE* pVal);
+	[propput, id(3)] HRESULT xMax([in] DOUBLE newVal);
+	[propget, id(4)] HRESULT yMin([out, retval] DOUBLE* pVal);
+	[propput, id(4)] HRESULT yMin([in] DOUBLE newVal);
+	[propget, id(5)] HRESULT yMax([out, retval] DOUBLE* pVal);
+	[propput, id(5)] HRESULT yMax([in] DOUBLE newVal);
+};
+
+[
+	uuid(9D85C945-0C38-4103-A23D-DA5B6F09AC24),
+	version(1.0),
+]
+library GrafikLib
+{
+	importlib("stdole2.tlb");
+	[
+		uuid(00B8E4FA-3543-446E-9B5A-BBDA3BBAB8CE)		
+	]
+	dispinterface _IGrafCtlEvents
+	{
+		properties:
+		methods:
+			[id(1)] void Click([in] LONG x, [in] LONG y);
+	};
+	[
+		uuid(B0626949-F7DE-457F-9AFC-A5B445F307F6),		
+		control
+	]
+	coclass GrafCtl
+	{
+		[default] interface IGrafCtl;
+		[default, source] dispinterface _IGrafCtlEvents;
+	};
+};
+
