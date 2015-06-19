@@ -1,0 +1,9 @@
+D:\iit-bsuir\SESSION_4\ТКП\ТКП_labs_копия\lab_3_CP\LB3_C#_Client\LB3_Csharp_Client\LB3_Csharp_Client\bin\Debug\LB3_Csharp_Client.exe
+D:\iit-bsuir\SESSION_4\ТКП\ТКП_labs_копия\lab_3_CP\LB3_C#_Client\LB3_Csharp_Client\LB3_Csharp_Client\bin\Debug\LB3_Csharp_Client.pdb
+D:\iit-bsuir\SESSION_4\ТКП\ТКП_labs_копия\lab_3_CP\LB3_C#_Client\LB3_Csharp_Client\LB3_Csharp_Client\obj\x86\Debug\LB3_Csharp_Client.exe
+D:\iit-bsuir\SESSION_4\ТКП\ТКП_labs_копия\lab_3_CP\LB3_C#_Client\LB3_Csharp_Client\LB3_Csharp_Client\obj\x86\Debug\LB3_Csharp_Client.pdb
+C:\IIT\ТКП\lab_3_CP\LB3_C#_Client\LB3_Csharp_Client\LB3_Csharp_Client\obj\x86\Debug\LB3_Csharp_Client.exe
+C:\IIT\ТКП\lab_3_CP\LB3_C#_Client\LB3_Csharp_Client\LB3_Csharp_Client\obj\x86\Debug\LB3_Csharp_Client.pdb
+C:\IIT\ТКП\lab_3_CP\LB3_C#_Client\LB3_Csharp_Client\LB3_Csharp_Client\bin\Debug\LB3_Csharp_Client.exe
+C:\IIT\ТКП\lab_3_CP\LB3_C#_Client\LB3_Csharp_Client\LB3_Csharp_Client\bin\Debug\LB3_Csharp_Client.pdb
+C:\IIT\ТКП\lab_3_CP\LB3_C#_Client\LB3_Csharp_Client\LB3_Csharp_Client\obj\x86\Debug\ResolveAssemblyReference.cache

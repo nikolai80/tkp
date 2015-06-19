@@ -1,0 +1,25 @@
+HKCR
+{
+	GrafikLib.GrafProp.1 = s 'GrafProp Class'
+	{
+		CLSID = s '{6C43B4DB-51D8-4246-BA42-CB65F62D9B09}'
+	}
+	GrafikLib.GrafProp = s 'GrafProp Class'
+	{		
+		CurVer = s 'GrafikLib.GrafProp.1'
+	}
+	NoRemove CLSID
+	{
+		ForceRemove {6C43B4DB-51D8-4246-BA42-CB65F62D9B09} = s 'GrafProp Class'
+		{
+			ProgID = s 'GrafikLib.GrafProp.1'
+			VersionIndependentProgID = s 'GrafikLib.GrafProp'
+			InprocServer32 = s '%MODULE%'
+			{
+				val ThreadingModel = s 'Apartment'
+			}
+			TypeLib = s '{9D85C945-0C38-4103-A23D-DA5B6F09AC24}'
+			Version = s '1.0'
+		}
+	}
+}

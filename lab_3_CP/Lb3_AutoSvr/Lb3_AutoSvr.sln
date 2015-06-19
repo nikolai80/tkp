@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Lb3_AutoSvr", "Lb3_AutoSvr\Lb3_AutoSvr.vcxproj", "{9575A453-B3C3-4737-B007-B68F4647B744}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Lb3_AutoSvrPS", "Lb3_AutoSvr\Lb3_AutoSvrPS.vcxproj", "{2F321282-2FC7-4C00-8F8D-AFA3EA9697ED}"
+	ProjectSection(ProjectDependencies) = postProject
+		{9575A453-B3C3-4737-B007-B68F4647B744} = {9575A453-B3C3-4737-B007-B68F4647B744}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9575A453-B3C3-4737-B007-B68F4647B744}.Debug|Win32.ActiveCfg = Debug|Win32
+		{9575A453-B3C3-4737-B007-B68F4647B744}.Debug|Win32.Build.0 = Debug|Win32
+		{9575A453-B3C3-4737-B007-B68F4647B744}.Release|Win32.ActiveCfg = Release|Win32
+		{9575A453-B3C3-4737-B007-B68F4647B744}.Release|Win32.Build.0 = Release|Win32
+		{2F321282-2FC7-4C00-8F8D-AFA3EA9697ED}.Debug|Win32.ActiveCfg = Debug|Win32
+		{2F321282-2FC7-4C00-8F8D-AFA3EA9697ED}.Release|Win32.ActiveCfg = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,61 @@
+// Polygon.idl : IDL source for Polygon
+//
+
+// This file will be processed by the MIDL tool to
+// produce the type library (Polygon.tlb) and marshalling code.
+
+#include "olectl.h"
+import "oaidl.idl";
+import "ocidl.idl";
+
+[
+	object,
+	uuid(3234D711-1C20-43DB-8121-6FBD7BA5D0EA),
+	dual,
+	nonextensible,
+	pointer_default(unique)
+]
+interface IPolyCtl : IDispatch{
+	[propput, bindable, requestedit, id(DISPID_FILLCOLOR)]
+	HRESULT FillColor([in]OLE_COLOR clr);
+	[propget, bindable, requestedit, id(DISPID_FILLCOLOR)]
+	HRESULT FillColor([out, retval]OLE_COLOR* pclr);
+	[propget, id(1)] HRESULT Sides([out, retval] SHORT* pVal);
+	[propput, id(1)] HRESULT Sides([in] SHORT newVal);
+};
+
+[
+	uuid(12158E96-1611-4432-91E4-3CEBCC9E24B5),
+	version(1.0),
+]
+library PolygonLib
+{
+	importlib("stdole2.tlb");
+	[
+		uuid(3491EAEA-D5CD-4CF9-ADE4-23BE0576CB0F)		
+	]
+	dispinterface _IPolyCtlEvents
+	{
+		properties:
+		methods:
+			[id(1), helpstring("ClickIn")] void ClickIn([in] LONG x, [in] LONG y);
+			[id(2), helpstring("ClickOut")] void ClickOut([in] LONG x, [in] LONG y);
+	};
+	[
+		uuid(3588F93E-6A65-4C94-8358-89CA8BEC050A),		
+		control
+	]
+	coclass PolyCtl
+	{
+		[default] interface IPolyCtl;
+		[default, source] dispinterface _IPolyCtlEvents;
+	};
+	[
+		uuid(D9073C73-E2C0-4188-99B1-A4DEF7591DEA)		
+	]
+	coclass PolyProp
+	{
+		[default] interface IUnknown;
+	};
+};
+
