@@ -6,3 +6,10 @@ D:\iit-bsuir\SESSION_4\ТКП\ТКП_labs_копия\lab_4\CalendarLab4\Calendar
 D:\iit-bsuir\SESSION_4\ТКП\ТКП_labs_копия\lab_4\CalendarLab4\CalendarLab4\obj\x86\Debug\CalendarLab4.exe
 D:\iit-bsuir\SESSION_4\ТКП\ТКП_labs_копия\lab_4\CalendarLab4\CalendarLab4\obj\x86\Debug\CalendarLab4.pdb
 d:\iit-bsuir\SESSION_4\ТКП\ТКП_labs_копия\lab_4\CalendarLab4\CalendarLab4\obj\x86\Debug\CalendarLab4.csprojResolveAssemblyReference.cache
+D:\rybchenko\programs\tkp\lab_4\CalendarLab4\CalendarLab4\bin\Debug\CalendarLab4.exe
+D:\rybchenko\programs\tkp\lab_4\CalendarLab4\CalendarLab4\bin\Debug\CalendarLab4.pdb
+D:\rybchenko\programs\tkp\lab_4\CalendarLab4\CalendarLab4\obj\x86\Debug\CalendarLab4.Form1.resources
+D:\rybchenko\programs\tkp\lab_4\CalendarLab4\CalendarLab4\obj\x86\Debug\CalendarLab4.Properties.Resources.resources
+D:\rybchenko\programs\tkp\lab_4\CalendarLab4\CalendarLab4\obj\x86\Debug\CalendarLab4.csproj.GenerateResource.Cache
+D:\rybchenko\programs\tkp\lab_4\CalendarLab4\CalendarLab4\obj\x86\Debug\CalendarLab4.exe
+D:\rybchenko\programs\tkp\lab_4\CalendarLab4\CalendarLab4\obj\x86\Debug\CalendarLab4.pdb

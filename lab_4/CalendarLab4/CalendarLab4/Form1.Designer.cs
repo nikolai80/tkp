@@ -99,7 +99,7 @@
             this.Controls.Add(this.button1);
             this.Controls.Add(this.monthCalendar1);
             this.Name = "Form1";
-            this.Text = "Lab4_Moroz";
+            this.Text = "Lab4_Rybchenko";
             this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
             this.PerformLayout();

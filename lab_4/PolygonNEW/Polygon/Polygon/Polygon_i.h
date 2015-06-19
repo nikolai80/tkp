@@ -3,11 +3,11 @@
 /* this ALWAYS GENERATED file contains the definitions for the interfaces */
 
 
- /* File created by MIDL compiler version 8.00.0603 */
-/* at Mon Jun 01 21:00:38 2015
+ /* File created by MIDL compiler version 7.00.0555 */
+/* at Fri Jun 19 15:32:52 2015
  */
 /* Compiler settings for Polygon.idl:
-    Oicf, W1, Zp8, env=Win32 (32b run), target_arch=X86 8.00.0603 
+    Oicf, W1, Zp8, env=Win32 (32b run), target_arch=X86 7.00.0555 
     protocol : dce , ms_ext, c_ext, robust
     error checks: allocation ref bounds_check enum stub_data 
     VC __declspec() decoration level: 
@@ -48,14 +48,12 @@
 #ifndef __IPolyCtl_FWD_DEFINED__
 #define __IPolyCtl_FWD_DEFINED__
 typedef interface IPolyCtl IPolyCtl;
-
 #endif 	/* __IPolyCtl_FWD_DEFINED__ */
 
 
 #ifndef ___IPolyCtlEvents_FWD_DEFINED__
 #define ___IPolyCtlEvents_FWD_DEFINED__
 typedef interface _IPolyCtlEvents _IPolyCtlEvents;
-
 #endif 	/* ___IPolyCtlEvents_FWD_DEFINED__ */
 
 
@@ -121,7 +119,6 @@ EXTERN_C const IID IID_IPolyCtl;
         
     };
     
-    
 #else 	/* C style interface */
 
     typedef struct IPolyCtlVtbl
@@ -132,7 +129,7 @@ EXTERN_C const IID IID_IPolyCtl;
             IPolyCtl * This,
             /* [in] */ REFIID riid,
             /* [annotation][iid_is][out] */ 
-            _COM_Outptr_  void **ppvObject);
+            __RPC__deref_out  void **ppvObject);
         
         ULONG ( STDMETHODCALLTYPE *AddRef )( 
             IPolyCtl * This);
@@ -160,22 +157,14 @@ EXTERN_C const IID IID_IPolyCtl;
         
         /* [local] */ HRESULT ( STDMETHODCALLTYPE *Invoke )( 
             IPolyCtl * This,
-            /* [annotation][in] */ 
-            _In_  DISPID dispIdMember,
-            /* [annotation][in] */ 
-            _In_  REFIID riid,
-            /* [annotation][in] */ 
-            _In_  LCID lcid,
-            /* [annotation][in] */ 
-            _In_  WORD wFlags,
-            /* [annotation][out][in] */ 
-            _In_  DISPPARAMS *pDispParams,
-            /* [annotation][out] */ 
-            _Out_opt_  VARIANT *pVarResult,
-            /* [annotation][out] */ 
-            _Out_opt_  EXCEPINFO *pExcepInfo,
-            /* [annotation][out] */ 
-            _Out_opt_  UINT *puArgErr);
+            /* [in] */ DISPID dispIdMember,
+            /* [in] */ REFIID riid,
+            /* [in] */ LCID lcid,
+            /* [in] */ WORD wFlags,
+            /* [out][in] */ DISPPARAMS *pDispParams,
+            /* [out] */ VARIANT *pVarResult,
+            /* [out] */ EXCEPINFO *pExcepInfo,
+            /* [out] */ UINT *puArgErr);
         
         /* [id][requestedit][bindable][propput] */ HRESULT ( STDMETHODCALLTYPE *put_FillColor )( 
             IPolyCtl * This,
@@ -288,7 +277,7 @@ EXTERN_C const IID DIID__IPolyCtlEvents;
             _IPolyCtlEvents * This,
             /* [in] */ REFIID riid,
             /* [annotation][iid_is][out] */ 
-            _COM_Outptr_  void **ppvObject);
+            __RPC__deref_out  void **ppvObject);
         
         ULONG ( STDMETHODCALLTYPE *AddRef )( 
             _IPolyCtlEvents * This);
@@ -316,22 +305,14 @@ EXTERN_C const IID DIID__IPolyCtlEvents;
         
         /* [local] */ HRESULT ( STDMETHODCALLTYPE *Invoke )( 
             _IPolyCtlEvents * This,
-            /* [annotation][in] */ 
-            _In_  DISPID dispIdMember,
-            /* [annotation][in] */ 
-            _In_  REFIID riid,
-            /* [annotation][in] */ 
-            _In_  LCID lcid,
-            /* [annotation][in] */ 
-            _In_  WORD wFlags,
-            /* [annotation][out][in] */ 
-            _In_  DISPPARAMS *pDispParams,
-            /* [annotation][out] */ 
-            _Out_opt_  VARIANT *pVarResult,
-            /* [annotation][out] */ 
-            _Out_opt_  EXCEPINFO *pExcepInfo,
-            /* [annotation][out] */ 
-            _Out_opt_  UINT *puArgErr);
+            /* [in] */ DISPID dispIdMember,
+            /* [in] */ REFIID riid,
+            /* [in] */ LCID lcid,
+            /* [in] */ WORD wFlags,
+            /* [out][in] */ DISPPARAMS *pDispParams,
+            /* [out] */ VARIANT *pVarResult,
+            /* [out] */ EXCEPINFO *pExcepInfo,
+            /* [out] */ UINT *puArgErr);
         
         END_INTERFACE
     } _IPolyCtlEventsVtbl;
