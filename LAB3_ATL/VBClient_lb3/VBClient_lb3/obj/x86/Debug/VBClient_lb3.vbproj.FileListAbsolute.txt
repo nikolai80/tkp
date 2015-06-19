@@ -29,3 +29,14 @@ d:\iit-bsuir\SESSION_4\ТКП\ТКП_labs_копия\lab_3\LAB3_ATL\VBClient_lb3
 d:\iit-bsuir\SESSION_4\ТКП\ТКП_labs_копия\lab_3\LAB3_ATL\VBClient_lb3\VBClient_lb3\bin\Debug\VBClient_lb3.pdb
 d:\iit-bsuir\SESSION_4\ТКП\ТКП_labs_копия\lab_3\LAB3_ATL\VBClient_lb3\VBClient_lb3\bin\Debug\VBClient_lb3.xml
 d:\iit-bsuir\SESSION_4\ТКП\ТКП_labs_копия\lab_3\LAB3_ATL\VBClient_lb3\VBClient_lb3\obj\x86\Debug\Interop.Lb3_AutoSvrLib.dll
+D:\rybchenko\programs\tkp\LAB3_ATL\VBClient_lb3\VBClient_lb3\obj\x86\Debug\Interop.Lb3_AutoSvrLib.dll
+D:\rybchenko\programs\tkp\LAB3_ATL\VBClient_lb3\VBClient_lb3\obj\x86\Debug\VBClient_lb3.vbproj.ResolveComReference.cache
+D:\rybchenko\programs\tkp\LAB3_ATL\VBClient_lb3\VBClient_lb3\obj\x86\Debug\VBClient_lb3.xml
+D:\rybchenko\programs\tkp\LAB3_ATL\VBClient_lb3\VBClient_lb3\bin\Debug\VBClient_lb3.exe
+D:\rybchenko\programs\tkp\LAB3_ATL\VBClient_lb3\VBClient_lb3\bin\Debug\VBClient_lb3.pdb
+D:\rybchenko\programs\tkp\LAB3_ATL\VBClient_lb3\VBClient_lb3\bin\Debug\VBClient_lb3.xml
+D:\rybchenko\programs\tkp\LAB3_ATL\VBClient_lb3\VBClient_lb3\obj\x86\Debug\VBClient_lb3.Form1.resources
+D:\rybchenko\programs\tkp\LAB3_ATL\VBClient_lb3\VBClient_lb3\obj\x86\Debug\VBClient_lb3.Resources.resources
+D:\rybchenko\programs\tkp\LAB3_ATL\VBClient_lb3\VBClient_lb3\obj\x86\Debug\VBClient_lb3.vbproj.GenerateResource.Cache
+D:\rybchenko\programs\tkp\LAB3_ATL\VBClient_lb3\VBClient_lb3\obj\x86\Debug\VBClient_lb3.exe
+D:\rybchenko\programs\tkp\LAB3_ATL\VBClient_lb3\VBClient_lb3\obj\x86\Debug\VBClient_lb3.pdb
